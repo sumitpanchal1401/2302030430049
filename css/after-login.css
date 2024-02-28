@@ -1,0 +1,1443 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.after-login-jju {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #090d28;
+}
+.after-login-jju .auto-group-vqh1-UhV {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 72.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR {
+  box-sizing: border-box;
+  padding-left: 4rem;
+  width: 144rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #090d28;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .gym-logo-1-5xB {
+  margin-right: 6.9rem;
+  width: 12rem;
+  height: 8rem;
+  position: relative;
+  background-size: 125.698% 190.678%;
+  background-position: -1.743rem -2.5763rem;
+  background-image: url('../assets/gym-logo-1-9yy.png');
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .home-yGs {
+  margin-right: 2rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #ea377b;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .about-us-UDd {
+  margin-right: 2rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .packages-oFu {
+  margin-right: 2rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .shop-w7D {
+  margin-right: 2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .blog-g4o {
+  margin-right: 2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .contact-us-175 {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB {
+  box-sizing: border-box;
+  padding: 2rem 11.6rem 2rem 6.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .search-bar-GYo {
+  margin-right: 3.6rem;
+  box-sizing: border-box;
+  padding: 0.8rem 2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #1b1f3e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .search-bar-GYo .search-Bfm {
+  margin-right: 18.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #6c6c6f;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .search-bar-GYo .search-outline-i9u {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .group-39-S5u {
+  margin: 0.3rem 2.6rem 0.3rem 0rem;
+  width: 3.4rem;
+  height: calc(100% - 0.6rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .group-39-S5u .cart-icon-LBH {
+  width: 100%;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1b1f3e;
+  border-radius: 1.7rem;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .cart-icon-qdq {
+  margin-right: 2.6rem;
+  width: 3.4rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .header-1hR .auto-group-5qkd-9UB .wishlist-icon-Ntf {
+  width: 3.4rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 {
+  width: 144rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 7.9rem;
+  background-color: #1b1f3e;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 .sport-girl-1-r39 {
+  width: 35.9rem;
+  height: 47.5rem;
+  position: absolute;
+  left: 92.7rem;
+  top: 0.9rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 .rectangle-5-xby {
+  width: 144rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 .workout-with-me-W7h {
+  width: 39.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 14.6rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 .fasterstronger-fight-to-the-end-buq {
+  width: 39.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 20.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.after-login-jju .auto-group-vqh1-UhV .banner-image-KJ7 .more-details-button-uvX {
+  width: 15.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 25.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV {
+  box-sizing: border-box;
+  padding: 2.6rem 3rem;
+  width: 114.4rem;
+  height: 24.9rem;
+  position: absolute;
+  left: 14.8rem;
+  top: 47.7rem;
+  overflow: hidden;
+  display: flex;
+  column-gap: 3.2rem;
+  align-items: center;
+  background-color: #ffffff;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .free-shipping-GPh {
+  box-sizing: border-box;
+  padding: 3.1rem 1.9rem 2.5rem 1.9rem;
+  width: 24.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ea377b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .free-shipping-GPh .shipping-icon-afH {
+  margin: 0rem 0.1rem 1.6rem 0rem;
+  width: 6rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .free-shipping-GPh .free-shipping-hV1 {
+  margin-bottom: 0.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #090d28;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .free-shipping-GPh .contrary-to-popular-belief-ipsum-is-simply-random-Ejq {
+  max-width: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3575125;
+  color: #4a4e68;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .instant-payments-XD9 {
+  box-sizing: border-box;
+  padding: 3.5rem 1.9rem 2.5rem 1.9rem;
+  width: 24.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ea377b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .instant-payments-XD9 .payment-icon-3xB {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: 5rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .instant-payments-XD9 .instant-payments-z6j {
+  margin-bottom: 0.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #090d28;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .instant-payments-XD9 .contrary-to-popular-belief-ipsum-is-simply-random-iYX {
+  max-width: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3575125;
+  color: #4a4e68;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .exchange-return-bsD {
+  box-sizing: border-box;
+  padding: 2.3rem 0.95rem;
+  width: 24.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ea377b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .exchange-return-bsD .repeat-icon-jCj {
+  margin: 0rem 0rem 1rem 0.1rem;
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .exchange-return-bsD .exchange-return-Fwm {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3575125;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .exchange-return-bsD .contrary-to-popular-belief-ipsum-is-simply-random-C6K {
+  max-width: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3575125;
+  color: #4a4e68;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .customer-service-6Sb {
+  box-sizing: border-box;
+  padding: 2.8rem 1.75rem 2.3rem 1.75rem;
+  width: 24.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ea377b;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .customer-service-6Sb .hours-icon-D1R {
+  margin: 0rem 0rem 1.5rem 0.1rem;
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .customer-service-6Sb .customer-service-vAj {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.3575125;
+  color: #000000;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vqh1-UhV .shippingpaymentexchangeservice-section-yfV .customer-service-6Sb .contrary-to-popular-belief-ipsum-is-simply-random-esR {
+  margin-left: 0.2rem;
+  max-width: 20.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3575125;
+  color: #4a4e68;
+  font-family: Montserrat, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.after-login-jju .explore-our-dynamic-training-programs-Wud {
+  margin-left: 4rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s {
+  box-sizing: border-box;
+  padding: 4rem 4rem 13.9rem 4rem;
+  width: 100%;
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq {
+  width: 100%;
+  height: 51rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-uwc7-J4o {
+  width: 42rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-uwc7-J4o .yoga-EDM {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 7.9rem 10.1rem;
+  width: 100%;
+  height: 23.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-uwc7-J4o .yoga-EDM .yoga-Aco {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-uwc7-J4o .zumba-phM {
+  box-sizing: border-box;
+  padding: 7.9rem 10.1rem;
+  width: 100%;
+  height: 23.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-10-bg-umH.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-uwc7-J4o .zumba-phM .zumba-mMh {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-p1hy-STq {
+  width: 42rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-p1hy-STq .fitness-o3V {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 7.9rem 10.1rem;
+  width: 100%;
+  height: 23.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg-weF.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-p1hy-STq .fitness-o3V .fitness-vto {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-p1hy-STq .workout-bzw {
+  box-sizing: border-box;
+  padding: 7.9rem 10.1rem;
+  width: 100%;
+  height: 23.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-p1hy-STq .workout-bzw .workout-x4o {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-v7bu-cv3 {
+  width: 42rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-v7bu-cv3 .cardio-xj1 {
+  margin-bottom: 4rem;
+  box-sizing: border-box;
+  padding: 7.9rem 10.1rem;
+  width: 100%;
+  height: 23.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-eKR.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-v7bu-cv3 .cardio-xj1 .cardio-WEj {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-v7bu-cv3 .bodybuilding-CNT {
+  box-sizing: border-box;
+  padding: 7.9rem 3.8rem;
+  width: 100%;
+  height: 23.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-12-bg-vFq.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .training-program-list-xFq .auto-group-v7bu-cv3 .bodybuilding-CNT .bodybuilding-Khy {
+  width: 100%;
+  height: 100%;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(74, 78, 104, 0.5500000119);
+  border-radius: 0.5rem;
+}
+.after-login-jju .auto-group-vvwu-38s .category-nLf {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-nLf .category-wzF {
+  margin-right: 105.2rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-nLf .see-all-HoD {
+  margin-top: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 {
+  width: 100%;
+  height: 21rem;
+  display: flex;
+  column-gap: 5.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .protein-nutrition-NZm {
+  box-sizing: border-box;
+  padding: 2rem 3.8rem 1.9rem 3.8rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1b1f3e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .protein-nutrition-NZm .protein-nutrition-2-6kf {
+  width: 14.1rem;
+  height: 14.1rem;
+  position: relative;
+  background-size: 151.111% 100%;
+  background-position: -3.5163rem 0;
+  background-image: url('../assets/protein-nutrition-2-cMu.png');
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .protein-nutrition-NZm .protein-nutrition-of5 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-outfit-7Qs {
+  box-sizing: border-box;
+  padding: 2rem 7.3rem 1.9rem 7.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1b1f3e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-outfit-7Qs .sports-outfit-1-efh {
+  width: 14.1rem;
+  height: 14.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-outfit-7Qs .sports-outfit-o2o {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-bags-vdD {
+  box-sizing: border-box;
+  padding: 2rem 8rem 1.9rem 7.3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1b1f3e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-bags-vdD .sports-bags-1-fao {
+  margin-left: 0.7rem;
+  width: 14.1rem;
+  height: 14.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .sports-bags-vdD .sports-bags-owu {
+  margin-right: 0.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .gym-accessories-wHR {
+  box-sizing: border-box;
+  padding: 2rem 5rem 1.9rem 4.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1b1f3e;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .gym-accessories-wHR .gym-accessories-1-Uo9 {
+  margin-left: 0.1rem;
+  width: 14.1rem;
+  height: 14.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .category-list--q43 .gym-accessories-wHR .gym-accessories-ps1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-Z3u {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-Z3u .new-product-KYs {
+  margin-right: 96.4rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-Z3u .see-all-3Dy {
+  margin-top: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 {
+  width: 100%;
+  height: 53.9rem;
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .gym-t-shirt-Hu1 {
+  box-sizing: border-box;
+  padding: 5.2rem 8.7rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .gym-t-shirt-Hu1 .gym-t-shirt-1-pe3 {
+  margin-bottom: 2rem;
+  width: 25rem;
+  height: 25rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .gym-t-shirt-Hu1 .gym-t-shirt-Mts {
+  margin-bottom: 1.9rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .gym-t-shirt-Hu1 .item-25000-JZD {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .gym-t-shirt-Hu1 .frame-4-pGf {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 6.7rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .half-sleeve-t-shirt-t1d {
+  box-sizing: border-box;
+  padding: 5.2rem 9.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .half-sleeve-t-shirt-t1d .half-sleeve-t-shirt-1-ouH {
+  margin: 0rem 0.1rem 2.1rem 0rem;
+  width: 22.1rem;
+  height: 25rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .half-sleeve-t-shirt-t1d .half-sleeve-t-shirt-6tP {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .half-sleeve-t-shirt-t1d .item-30000-2X9 {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .half-sleeve-t-shirt-t1d .frame-4-M3d {
+  width: 100%;
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .sleeve-less-t-shirt-pT1 {
+  box-sizing: border-box;
+  padding: 5.2rem 8.7rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .sleeve-less-t-shirt-pT1 .sleeve-less-t-shirt-1-XMR {
+  margin-bottom: 2rem;
+  width: 25rem;
+  height: 25rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .sleeve-less-t-shirt-pT1 .sleeve-less-t-shirt-4s9 {
+  margin-bottom: 1.9rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .sleeve-less-t-shirt-pT1 .item-30000-opj {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .new-product-list-9H1 .sleeve-less-t-shirt-pT1 .frame-4-LJs {
+  margin: 0 0.8rem;
+  width: calc(100% - 1.6rem);
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-ayu {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-ayu .trending-product-Yfq {
+  margin-right: 85.9rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-ayu .see-all-59y {
+  margin-top: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB {
+  width: 100%;
+  height: 53.9rem;
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .black-gym-bag-vgP {
+  box-sizing: border-box;
+  padding: 6.5rem 9.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .black-gym-bag-vgP .black-gym-bag-1-rK9 {
+  margin: 0rem 0rem 2rem 0.1rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .black-gym-bag-vgP .black-gym-bag-yuZ {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .black-gym-bag-vgP .item-255000-HQT {
+  margin: 0rem 0rem 1.9rem 0.5rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .black-gym-bag-vgP .frame-4-odh {
+  width: 100%;
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .best-gym-bag-GnB {
+  box-sizing: border-box;
+  padding: 6.5rem 9.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .best-gym-bag-GnB .best-gym-bag-1-Bu9 {
+  margin: 0rem 0rem 2rem 0.3rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .best-gym-bag-GnB .best-gym-bag-WgX {
+  margin-bottom: 1.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .best-gym-bag-GnB .item-30000-SaB {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .best-gym-bag-GnB .frame-4-x2j {
+  width: 100%;
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .sleeve-less-t-shirt-SCo {
+  box-sizing: border-box;
+  padding: 6.8rem 9.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .sleeve-less-t-shirt-SCo .shoulder-bag-1-ig7 {
+  margin: 0rem 0rem 2rem 0.1rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .sleeve-less-t-shirt-SCo .shoulder-bag-Sc7 {
+  margin-bottom: 1.2rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .sleeve-less-t-shirt-SCo .item-30000-aiK {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-list-naB .sleeve-less-t-shirt-SCo .frame-4-5uy {
+  width: 100%;
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-kmD {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-kmD .popular-product-X1H {
+  margin-right: 87.3rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .trending-product-kmD .see-all-2ij {
+  margin-top: 0.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F {
+  width: 100%;
+  height: 53.9rem;
+  display: flex;
+  column-gap: 4.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .whey-protein-mexico-6ib {
+  box-sizing: border-box;
+  padding: 6.7rem 8.3rem 6.7rem 8.2rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .whey-protein-mexico-6ib .whey-protein-mexico-1-QzB {
+  margin: 0rem 0rem 1.97rem 0.1rem;
+  width: 13rem;
+  height: 22.1298rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .whey-protein-mexico-6ib .whey-protein-mexico-W1d {
+  margin-bottom: 1.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .whey-protein-mexico-6ib .item-255000-eNj {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .whey-protein-mexico-6ib .frame-4-kAs {
+  margin: 0rem 1.2rem 0rem 1.3rem;
+  width: calc(100% - 2.5rem);
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .vegan-protein-powder-PDq {
+  box-sizing: border-box;
+  padding: 6.5rem 7.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .vegan-protein-powder-PDq .vegan-protein-powder-1-7vX {
+  margin: 0rem 0.1rem 2rem 0rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .vegan-protein-powder-PDq .vegan-protein-powder-pa3 {
+  margin-bottom: 1.8rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .vegan-protein-powder-PDq .item-30000-A87 {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .vegan-protein-powder-PDq .frame-4-tK1 {
+  margin: 0 2rem;
+  width: calc(100% - 4rem);
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .organic-protein-powder-x3y {
+  box-sizing: border-box;
+  padding: 6.7rem 6.5rem;
+  width: 42.4rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #d9d9d9;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .organic-protein-powder-x3y .organic-protein-powder-1-G4f {
+  margin: 0rem 0.3rem 2rem 0rem;
+  width: 22.5rem;
+  height: 22.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .organic-protein-powder-x3y .organic-protein-powder-BhR {
+  margin-bottom: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .organic-protein-powder-x3y .item-30000-8Mm {
+  margin: 0rem 0rem 1.9rem 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.after-login-jju .auto-group-vvwu-38s .popular-product-list-A4F .organic-protein-powder-x3y .frame-4-T99 {
+  margin: 0 3rem;
+  width: calc(100% - 6rem);
+  height: 6.7rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  color: #f5f5f5;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ea377b;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
